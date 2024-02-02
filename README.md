@@ -22,3 +22,11 @@ To view the DentyTech website locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/DentyTech-Website.git
+
+## Dependencies 
+The DentyTech website relies on the following external dependencies:
+
+Rubik Font - Imported from Google Fonts for typography.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
